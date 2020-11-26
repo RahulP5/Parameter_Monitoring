@@ -102,4 +102,4 @@ The operation is not affected by sunlight or black material, although acoustical
   | CH1 | OUT |
  
  
-#### Made with ♥ by `Rahul Pachpind`
+#### Made with :yellow_heart: by `Rahul Pachpind`
